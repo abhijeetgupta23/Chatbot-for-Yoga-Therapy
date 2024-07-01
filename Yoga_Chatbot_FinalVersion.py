@@ -14,7 +14,7 @@ import chainlit as cl
 # Change YOUR_API_KEY by creating one on https://www.perplexity.ai/settings/api. 
 # Below is our API Key which will run out of credit in a few days
 
-YOUR_API_KEY = "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"
+YOUR_API_KEY = "pplx-"
 
 messages = [
     {"role": "system", "content": "You are a helpful assistant."}
