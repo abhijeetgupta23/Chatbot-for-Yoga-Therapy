@@ -31,3 +31,20 @@ Results :
 Chatbot Demo :
 
 [![Watch the video](https://img.youtube.com/vi/Ye-XBZnbD3w/maxresdefault.jpg)](https://youtu.be/Ye-XBZnbD3w)
+
+Steps to install the Chatbot:
+
+1.	Set Up Environment: Make sure Python is installed, and then create a virtual environment. This establishes an isolated environment for managing dependencies.
+2.	Install Dependencies: Install the required libraries using the following command:
+bash
+Copy code
+pip install openai chainlit
+3.  Download: Yoga_Chatbot_FinalVersion.py from this repository 
+4.	API Key: Replace YOUR_API_KEY with your actual Perplexity API key.
+5.	Powershell : Open it and change directory to where Yoga_Chatbot_FinalVersion.py is saved using cd command
+6.	Run the Script: Execute the script to start the Chainlit application:
+   
+    ```Chainlit run Yoga_Chatbot_FinalVersion.py```
+
+7.	Interact with the Bot: Launch the application in your browser and begin engaging with the Yoga Therapy Assistant Bot. Enter your questions about yoga therapy and get detailed answers.
+
