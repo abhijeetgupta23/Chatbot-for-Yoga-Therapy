@@ -30,4 +30,4 @@ Results :
 
 Chatbot Demo :
 
-https://www.youtube.com/watch?v=Ye-XBZnbD3w
+[![Watch the video](https://img.youtube.com/vi/Ye-XBZnbD3w/maxresdefault.jpg)](https://youtu.be/Ye-XBZnbD3w)
