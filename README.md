@@ -28,4 +28,6 @@ Results :
 
 ![image](https://github.com/abhijeetgupta23/Chatbot-for-Yoga-Therapy/assets/16919762/221f5e64-8af2-4457-990b-14b8d06a7e8e)
 
-[https://drive.google.com/file/d/1WTWx5nFxsTYL1A_xa8D6i9eQcGI2EToj/view?usp=drive_link](https://www.youtube.com/watch?v=Ye-XBZnbD3w)
+Chatbot Demo :
+
+https://www.youtube.com/watch?v=Ye-XBZnbD3w
